@@ -253,7 +253,3 @@ window.addEventListener('click', function () {
 
 mudaParaTela(Telas.INICIO);
 loop();
-
-/**
- * TODO: ajeitar o erro de chao is not defined
- *  */
